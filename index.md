@@ -1,4 +1,4 @@
-# Welcome to Paul's list of biographies for his projects.
+# Welcome to Paul's list of bibliographies for his projects.
 ## Year 2017 - 2018 (Grade 7)
 
 Project Name | ID | URL to biography
