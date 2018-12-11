@@ -1,4 +1,13 @@
 # Welcome to Paul's list of bibliographies for his projects.
+
+### Tip: To search for a project, press 'Ctrl+F' or Control+F and type in the id. It will quickly find the project you are looking for!
+
+## Year 2018 - 2019 (Grade 8)
+
+Project Name | ID | URL to biography
+------------ | -------------
+Human Organ Systems & Diseases Presentation | G8T2_Si-HOSD | https://docs.google.com/document/d/1Ks6X4V1qtlzlX0udc5I8MCOMYH2GNiENvAiz6LdtVAw/edit?usp=sharing
+
 ## Year 2017 - 2018 (Grade 7)
 
 Project Name | ID | URL to biography
