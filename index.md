@@ -6,6 +6,7 @@
 
 Project Name | ID | URL to biography
 ------------ | -------------
+Counter Ad Contest and Presentation | G8T2_LA-CACP | https://docs.google.com/document/d/1OxZPPu07OJgD-I_Xe8iEic8HScGiw_YIPHcqjCUuI3k/edit?usp=sharing
 Human Organ Systems & Diseases Presentation | G8T2_Si-HOSD | https://docs.google.com/document/d/1Ks6X4V1qtlzlX0udc5I8MCOMYH2GNiENvAiz6LdtVAw/edit?usp=sharing
 
 ## Year 2017 - 2018 (Grade 7)
