@@ -4,14 +4,14 @@
 
 ## Year 2018 - 2019 (Grade 8)
 
-Project Name | ID | URL to biography
+Project Name | ID | URL to bibliography
 ------------ | -------------
 Counter Ad Contest and Presentation | G8T2_LA-CACP | https://docs.google.com/document/d/1OxZPPu07OJgD-I_Xe8iEic8HScGiw_YIPHcqjCUuI3k/edit?usp=sharing
 Human Organ Systems & Diseases Presentation | G8T2_Si-HOSD | https://docs.google.com/document/d/1Ks6X4V1qtlzlX0udc5I8MCOMYH2GNiENvAiz6LdtVAw/edit?usp=sharing
 
 ## Year 2017 - 2018 (Grade 7)
 
-Project Name | ID | URL to biography
+Project Name | ID | URL to bibliography
 ------------ | -------------
 Geography Project | G7T3_So-Geog | https://docs.google.com/document/d/13noOAyvKAhKQ9GuyQbskv8UOFH44p5ViplPmxrtTiyc/edit?usp=sharing
 Non-Fiction Picture Book | G7T3_LA-NFPB | https://docs.google.com/document/d/1-8eAbCpKvgCkxMX7ybgC9aKRb5LhF1r37BpATZsCylg/edit?usp=sharing
