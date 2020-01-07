@@ -2,6 +2,12 @@
 
 ### Tip: To search for a project, press 'Ctrl+F' or Control+F and type in the id. It will quickly find the project you are looking for!
 
+## Year 2019 - 2020 (Grade 9)
+
+Project Name | ID | URL to bibliography
+------------ | -------------
+Invasive Species Info Poster | G9T2_Si-ISIP | https://docs.google.com/document/d/1YNONLObRV0wrCforlLGhNGC9MK_NTMnLyQMRe5D8Mgk/edit?usp=sharing
+
 ## Year 2018 - 2019 (Grade 8)
 
 Project Name | ID | URL to bibliography
